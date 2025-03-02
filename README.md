@@ -2,6 +2,16 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18481664&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version control - is a system that tracks changes made to files over a certain time, enabling multiple users to collaborate, revert to previous versions, and maintaining project integrity.
+
+ **The core concepts of version control include**
+Repositories – Its a central place where all the code and its history are stored.
+Commits – Snapshots of changes made to the codebase, recorded with messages.
+Branches – Separate lines of development that allow changes without affecting the main code.
+Merging – Combining different branches into one unified version.
+Pull Requests (PRs) – Proposals to merge changes, often reviewed by team members.
+Remote and Local Repositories – Remote repositories (e.g., GitHub, GitLab) store code online, while local repositories exist on a developer's machine.
+Conflict Resolution – Handling code conflicts when multiple people edit the same files.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
